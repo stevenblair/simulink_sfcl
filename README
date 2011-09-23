@@ -1,0 +1,1 @@
+Resistive superconducting fault current limiter (SFCL) model for Simulink and SimPowerSystems. All code is contained within the Simulink Library file. Each SFCL phase is implemented as an Embedded MATLAB script, which is duplicated as a separate file in the repository for ease of use.
